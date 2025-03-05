@@ -84,5 +84,6 @@ Optimized Calibration Frequency: Reduced unnecessary calibrations while maintain
 Time & Cost Savings: Improved efficiency of the measurement process.
 
 Sustainability: Lower energy consumption by reducing excessive probe qualifications.
-Test accuracy
 
+If you use this project, please cite:
+Sowrabh Kugunavara et al, "Data-Driven Model for CMM Probe Calibration to Enhance Efficiency and Sustainability", Procedia CIRP 122 (2024).
