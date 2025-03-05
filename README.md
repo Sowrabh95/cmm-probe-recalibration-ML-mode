@@ -1,9 +1,9 @@
-# cmm-probe-recalibration-ML-mode
+# CMM Probe Recalibration Classification Model
 Link to the publication https://www.sciencedirect.com/science/article/pii/S2212827124001665
 The detail description of the model is provided in the research article published in Procedia CIRP.
-Data-Driven Model for Predicting CMM Probe Re-Calibration
 
-Project Overview
+
+**Project Overview**
 
 This project aims to develop a machine learning-based predictive model for determining the optimal time to recalibrate a Coordinate Measuring Machine (CMM) probe. The objective is to minimize unnecessary calibrations while ensuring accurate measurements, thereby improving efficiency, reducing downtime, and enhancing sustainability in manufacturing processes.
 
